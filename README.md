@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+⛏️ 𝙷𝚒, 𝙸'𝚖 𝙰𝚍𝚊𝚖 👾
+</h1>
 
-<!--
-**Adamzuckk/Adamzuckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+I'm+Adam;A+Software+Engineer;A+Bug+Hunter;Game+Dev+in+my+Free+Time" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Player Stats
+
+```diff
++ Role: Software Engineer
++ Side Quest: Bug Hunting
++ Hobby: Game Development
++ Status: Grinding XP 🚀
