@@ -1,19 +1,15 @@
 <h1 align="center">Hi, I'm Adam 👋</h1>
 
 <p align="center">
-  Software Engineer | Bug Hunter | Game Dev 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=Software+Engineer;Bug+Hunter;Game+Developer+in+my+Free+Time" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about building real systems, solving problems, and exploring security from an offensive perspective.
-
-- 💻 Focused on Software Engineering  
-- 🐞 Interested in Bug Hunting & Security Research  
-- 🎮 Game Developer in my free time  
-- 🚀 Always learning, always building  
+I'm a Computer Science student focused on building solid systems and constantly improving my engineering skills.  
+I enjoy exploring security concepts and developing games in my free time.
 
 ---
 
@@ -27,19 +23,3 @@ I'm a Computer Science student passionate about building real systems, solving p
 - Python  
 - C++  
 - Rust  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-</p>
-
----
-
-## ⚡
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Build.+Break.+Learn.+Repeat.;Leveling+Up+Every+Day.;Grinding+in+Silence." />
-</p>
