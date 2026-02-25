@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ADAM</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Software+Engineer;Bug+Hunter;Game+Developer+in+my+Free+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Software+Engineer;Bug+Hunter;Game+Dev" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ I enjoy exploring security concepts and developing games in my free time.
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,AWS,github,docker,react" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react" />
 </p>
 
 - JavaScript  
