@@ -16,7 +16,7 @@ I enjoy exploring security concepts and developing games in my free time.
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux" />
 </p>
 
 - JavaScript  
@@ -26,4 +26,5 @@ I enjoy exploring security concepts and developing games in my free time.
 - AWS
 - github
 - docker
-- react 
+- react
+- linux
