@@ -6,17 +6,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me (0xzug)
 
 I'm a Computer Science student focused on building solid systems and constantly improving my engineering skills.  
-I enjoy exploring security concepts and developing games in my free time.
+I enjoy exploring security concepts and developing games in my free time , i'm not a hacker but i can be ;)
 
 ---
 
-## 🛠 Tech Stack
+## my tech skills 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,github" />
 </p>
 
 - JavaScript  
@@ -28,4 +28,5 @@ I enjoy exploring security concepts and developing games in my free time.
 - docker
 - react
 - linux
+- github
 
