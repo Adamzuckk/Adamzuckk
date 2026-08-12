@@ -16,7 +16,7 @@ I enjoy exploring security concepts and developing games in my free time , i'm n
 ## my tech skills 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,github,burpsuit,hackerone" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,github" />
 </p>
 
 - JavaScript  
@@ -29,6 +29,5 @@ I enjoy exploring security concepts and developing games in my free time , i'm n
 - react
 - linux
 - github
-- burpsuit
-- hackerone
+
 
