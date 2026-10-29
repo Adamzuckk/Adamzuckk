@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me (0xzug)
+##  About Me (0xzug)
 
 I'm a Computer Science student focused on building solid systems and constantly improving my engineering skills.  
 I enjoy exploring security concepts and developing games in my free time , i'm not a hacker but i can be ;)
