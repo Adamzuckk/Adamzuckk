@@ -6,28 +6,37 @@
 
 ---
 
-##  About Me (0xzug)
+## About Me (0xzug)
 
 I'm a Computer Science student focused on building solid systems and constantly improving my engineering skills.  
-I enjoy exploring security concepts and developing games in my free time , i'm not a hacker but i can be ;)
+I enjoy exploring security concepts and developing games in my free time, i'm not a hacker but i can be ;)
 
 ---
 
-## my tech skills 
+## GitHub Stats
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,github" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Adamzuckk&theme=radical" alt="GitHub Streak"/>
 </p>
 
-- JavaScript  
-- Python  
-- C++  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamzuckk&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+## My Tech Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux" />
+</p>
+
+- JavaScript
+- Python
+- C++
 - Rust
 - AWS
-- github
-- docker
-- react
-- linux
-- github
-
-
+- GitHub
+- Docker
+- React
+- Linux
