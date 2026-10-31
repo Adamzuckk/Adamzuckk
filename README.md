@@ -16,7 +16,7 @@ I enjoy exploring security concepts and developing games in my free time. I'm no
 ## My Tech Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,nodejs,google cloud" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,nodejs" alt="Tech Skills" />
 </p>
 
 - JavaScript
@@ -29,7 +29,6 @@ I enjoy exploring security concepts and developing games in my free time. I'm no
 - React
 - Linux
 - nodejs
-- google cloud
 
 ---
 
