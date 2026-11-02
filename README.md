@@ -16,7 +16,7 @@ I enjoy exploring security concepts and developing games in my free time. I'm no
 ## My Tech Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,nodejs,c#,golang" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,rust,aws,github,docker,react,linux,nodejs,csharp,golang" alt="Tech Skills" />
 </p>
 
 - JavaScript
