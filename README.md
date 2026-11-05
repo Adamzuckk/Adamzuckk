@@ -29,7 +29,6 @@ I enjoy exploring security concepts and developing games in my free time. I'm no
 - React
 - Linux
 - nodejs
-- c#
 - goloang
 
 ---
